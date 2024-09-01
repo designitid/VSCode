@@ -1,0 +1,29 @@
+Sebelum belajar Code Machine Learning:
+
+Pahami Data yang Kita Punya.
+- Berapa jumlah baris dan kolom
+salaries.shape
+
+- Apa Kolomm yang kita Punya
+salaries.datatype
+
+- Apa rata ratanya
+round(salaries.describe())
+
+- Berapa nilai maksimum dan minimumnya.
+salaries[["Colum Name 1", "Column Name 2"]]
+
+Visualisasi Datanya:
+- Berapa Kategori yang kita Punya
+sns.countplot(data=salaries, x='Column Name')
+
+- Apakah ada kolom yang sama
+sns.scatterplot(data=salaries, x='Inout Column', y='Output Column')
+
+- Apa di beberapa kategori memengaruhi outputnya
+sns.scatterplot(data=salaries, x='Input Column', y='Output Column', hue='Category Column')
+
+Challenge 1 : Predicting salaries
+- Metode Linear Regression
+
+

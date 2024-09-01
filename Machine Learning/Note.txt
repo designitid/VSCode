@@ -1,0 +1,29 @@
+Apa itu machine learning?
+
+Machine learning adalah bidang yang memberikan kemampuan pada komputerr untuk belajar
+tanpa di program secara langsung.
+
+Pada pemograman biasa, orang harus memberikan input pada program dan program akan memproses input
+tersebut untuk menghasilkan sebuah output.
+
+Sementara pada machine learning, input dan output akan di proses sehingga menghasilkan input baru
+yang akan menghasilkan output baru sampai seterusnya.
+
+Bagaimana Machine Learning bekerja?
+
+Machine learning bekerja dengan cara mengamati data yang sangat banyak untuk digunakan kembali.
+
+Contoh Machine Learning di Sekitar kita
+Computer Vision, Engine Rekomendasi, Penerjemah teks, Pembaca pola waktu, Pembaca anomali,.
+
+Apa yang bukan Machine Learning?
+
+Memprediksi gaji pegawai baru adallah contoh penggunaan machine learning.
+Menanyai Gaji wanita dan Pria adalah sama di sebuah perusahaan bukanlah machine learning.
+
+Ingin tahu kenapa sebuah chanell marketing mempunyai click yang besar adalah Machine Learning.
+Sementara mengetahui chanell marketing mana yang mendapatkan clicks paling banyak bukanlah machine learning.
+
+Ingin tahu bagaimana penjualan jika membuka cabang di negara baru adalah machine learning.
+Sementara memprediksi penjualan pada quarter kedepan tidak butuh machine learning.
+

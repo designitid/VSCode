@@ -1,0 +1,34 @@
+Banyak perusahaan yang mau AI/ML yang canggih hanya untuk regresi linear untuk membersihkan data.
+Artinya mereka memasukkan data sampah dan mengharapkan output yang bagus.
+
+Dalam machine learning,
+Input sampah akan menghasilkan output sampah.
+
+Siapa orang orang yang membangun machine learning?
+- Memerlukan Matematika dan Statistika
+    = Data Analyst, Data Scientist, dan Data Engineer.
+- Memerlukan Coding dan Engineering
+    = Data Engineer dan Daata Product Manager
+- Memerlukan Wawasan dan Komunikasi
+    = Data analyst dan Data Product Manager
+
+- Memerlukan ketiganya
+    = Data Scientist
+
+Beberapa pekerjaan yang butuh Machine Learning:
+- Finance dan HR
+- Operator
+- Supply Chain Guy
+- Engineering
+- Pemasaran dan Strategi
+- Digital marketing
+
+Data Science Sebagai Skill:
+- Data Jurnalism
+- Film Coloring
+- Bycycle Building
+
+Ketiganya dapat digunakan oleh:
+- Finance, Marketing dan Strategy
+
+
